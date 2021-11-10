@@ -1,3 +1,2 @@
 # konnichiwa
-<p>A simple, but effective startpage for chrome and firefox.</p>
-Preview [here](https://torikokodesu.github.io/konnichiwa/).
+A simple, but effective startpage for chrome and firefox. Preview [here](https://torikokodesu.github.io/konnichiwa/).
